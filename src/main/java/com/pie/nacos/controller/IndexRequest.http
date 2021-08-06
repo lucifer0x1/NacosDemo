@@ -1,0 +1,8 @@
+POST http://localhost:8080/b
+Content-Type: application/json
+
+{
+  "b":123
+}
+
+###
